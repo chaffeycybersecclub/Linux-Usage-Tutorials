@@ -1,0 +1,19 @@
+
+
+*******	Basic  Command Line Commands *******
+OBJECTIVE: To get a basic understanding of the command line interface, and learn to use the pwd, ls, cd and more commands.
+This tutorial is intended to be done on Windows Powershell (a command line interface for Windows), although you may need
+in order for it to work properly.
+
+1. Turn on Kali in virtual box and open the command line.
+  *If you do not have a snapshot of kali already saved into a USB, follow the tutorial 
+  found at https://github.com/chaffeycybersecclub/VirtualBox
+
+-	Visit this website and complete the following: http://bit.ly/2PUQWOu
+o	Introduction
+o	Ex 1: the setup (Windows or Mac)
+o	Ex 2: “pwd”
+o	Ex 6:” ls”
+o	Ex 5: “cd”
+o	Ex 12: “more” ("cat" is a similar command)
+-	Once complete, test what you learned! Create a new .txt file with random text and save it to your desktop. Using the command line, go to the desktop directory and open your text file.
