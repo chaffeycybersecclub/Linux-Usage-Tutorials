@@ -16,4 +16,5 @@ o	Ex 2: “pwd”
 o	Ex 6:” ls”
 o	Ex 5: “cd”
 o	Ex 12: “more” ("cat" is a similar command)
--	Once complete, test what you learned! Create a new .txt file with random text and save it to your desktop. Using the command line, go to the desktop directory and open your text file.
+-	Once complete, test what you learned! Create a new .txt file with random text and save it to your desktop. 
+  Using the command line, go to the desktop directory and open your text file.
